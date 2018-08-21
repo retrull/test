@@ -1,0 +1,33 @@
+[33mcommit 6e0e871e6570d436f037b9f4f0dba71189045a46[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Ryan Trull <rtrull97@gmail.com>
+Date:   Tue Aug 21 09:51:39 2018 -0400
+
+    Changed a word
+    
+    This should make it easier to follow
+
+[33mcommit e420fb188b9d8983b5cb1b91be2525af19b1ab2f[m
+Author: Ryan Trull <rtrull97@gmail.com>
+Date:   Tue Aug 21 09:32:03 2018 -0400
+
+    Decided it didn't add much
+
+[33mcommit 9e0f776328e6045dbf6b4cce99c20b05a80f173f[m
+Author: Ryan Trull <rtrull97@gmail.com>
+Date:   Tue Aug 21 09:30:47 2018 -0400
+
+    Added to make more robust
+
+[33mcommit a4ead20c5c7fe78d8c058c3b18d1fa5b5aa904b9[m
+Author: Ryan Trull <rtrull97@gmail.com>
+Date:   Tue Aug 21 09:28:54 2018 -0400
+
+    Provided more info in foo
+
+[33mcommit a124295f75f7b29ca7b50a115ccbac536ee82d9d[m
+Author: Ryan Trull <rtrull97@gmail.com>
+Date:   Tue Aug 21 09:26:32 2018 -0400
+
+    new file added
+    
+    this file is used to let the user know about all the new hello world options that are available
